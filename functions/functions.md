@@ -20,4 +20,5 @@ assert find_longest("aaa", "zz") == "aaa"
 assert find_longest("aaa", "bbb") == "aaa"
 ``` 
 את הפתרון אפשר לראות כאן
+
 [ex1.py](./ex1.py) 

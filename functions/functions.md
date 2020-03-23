@@ -30,9 +30,9 @@
 
 **אין להשתמש בפונקציה abs**
 
-[קישור לקוד של השאלה](./find_distance_ex.py)
+[קישור לקוד של השאלה](./get_distance_ex.py)
 
-[קישור לפתרון](./find_distance_sol.py)
+[קישור לפתרון](./get_distance_sol.py)
 
 
 # תרגיל 
@@ -42,7 +42,16 @@
 
 בשביל ערכו של PI השתמשו ב math.pi
 
-[קישור לקוד של השאלה](./find_circle_area_ex.py)
+[קישור לקוד של השאלה](./get_circle_area_ex.py)
 
-[קישור לפתרון](./find_circle_area_sol.py)
+[קישור לפתרון](./get_circle_area_sol.py)
 
+
+# תרגיל 
+כתבו פונקציה שמקבלת 3 מספרים ומחזירה את סכום השטחים של המעגלים שאלו הרדיוסים שלהם
+
+**השתמשו בקוד שרשמתם בתרגיל הקודם**
+
+[קישור לקוד של השאלה](./sum_circles_areas_ex.py)
+
+[קישור לפתרון](./sum_circles_areas_sol.py)

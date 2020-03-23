@@ -32,7 +32,7 @@ assert find_longest("aaa", "bbb") == "aaa"
 
 </div>
 
-את הפתרון אפשר לראות כאן [ex1.py](./ex1.py) 
+את הפתרון אפשר לראות כאן [ex_find_longs.py](./ex_find_longs.py) 
 
 
 # תרגיל שני 
@@ -73,6 +73,6 @@ assert get_points(1, 4) == (0, 3)
 
 </div>
 
-את הפתרון אפשר לראות כאן [ex2.py](./ex2.py) 
+את הפתרון אפשר לראות כאן [ex_get_points.py](./ex_get_points.py) 
 
 </div>

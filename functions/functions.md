@@ -32,7 +32,7 @@ assert find_longest("aaa", "bbb") == "aaa"
 
 </div>
 
-את הפתרון אפשר לראות כאן [ex_find_longs.py](./ex_find_longs.py) 
+את הפתרון אפשר לראות כאן [ex_find_longs.py](./ex_find_longest.py) 
 
 
 # תרגיל שני 
